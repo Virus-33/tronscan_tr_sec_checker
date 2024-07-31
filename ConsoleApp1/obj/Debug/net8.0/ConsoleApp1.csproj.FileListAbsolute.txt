@@ -15,3 +15,4 @@ C:\Users\Daniel\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\Consol
 C:\Users\Daniel\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\Daniel\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
 C:\Users\Daniel\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleA.CB28C8CC.Up2Date
+C:\Users\Daniel\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
